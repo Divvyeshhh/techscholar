@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/techscholar/static/css/main.d0a2789e.css",
+    "main.js": "/techscholar/static/js/main.299ef4ef.js",
+    "static/js/453.41a16df4.chunk.js": "/techscholar/static/js/453.41a16df4.chunk.js",
+    "index.html": "/techscholar/index.html",
+    "main.d0a2789e.css.map": "/techscholar/static/css/main.d0a2789e.css.map",
+    "main.299ef4ef.js.map": "/techscholar/static/js/main.299ef4ef.js.map",
+    "453.41a16df4.chunk.js.map": "/techscholar/static/js/453.41a16df4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0a2789e.css",
+    "static/js/main.299ef4ef.js"
+  ]
+}
