@@ -1,5 +1,5 @@
 # Deployment of the app
-[text](https://divvyeshhh.github.io/techscholar/)
+[Deployment Link](https://divvyeshhh.github.io/techscholar/)
 
 # Screenshots of the app running on localhost
 ![alt text](image-1.png)
