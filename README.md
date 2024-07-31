@@ -1,3 +1,15 @@
+![alt text](image-1.png)
+This is how the page loads.
+
+![alt text](image-2.png)
+User cannot choose events with a overlap in the timing.
+
+![alt text](image-3.png)
+User cannot choose more than three events.
+
+![alt text](image-4.png)
+When user tries to refresh the screen the local storage helps us to reload information.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
